@@ -2,7 +2,8 @@ Using cURL
 ====
 You can easily interact with the M2X API using cURL, a powerful command-line tool for making HTTP calls.
 
-*Pre-requisites: Windows 7 or later, or Mac OS X 10.7 or later*
+*Pre-requisites: Windows 7 or later, or Mac OS X 10.7 or later (for this guide)*
+*cURL itself works with almost any OS. You cam find a full list here: http://curl.haxx.se/docs/install.html*
 
 ### Downloading + installing cURL on Windows
 *(cURL is already installed on computers running Mac OS X)*
