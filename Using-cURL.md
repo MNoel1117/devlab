@@ -17,7 +17,7 @@ Use the following steps to install curl:
 6. Choose a version with support for SSL.
 7. Open the downloaded zip file. Extract the files to an easy-to-find place, such as C:\Program Files.
 
-### Testing curl on Windows
+### Testing cURL on Windows
 Open up the Windows Command Prompt terminal. (From the Start menu, click Run, then type cmd.)
 
 Set the path to include the directory where you put curl.exe. For example, if you put it in C:\Program Files\curl, then you would type the following command:
@@ -49,8 +49,8 @@ You should see JSON returned:
 }
 ``
 
-### Testing curl on Mac OS X
-Open up a Terminal Window (Terminal can be launched from Spotlight, the Dock at the bottom of the screen or even the Applications folder)
+### Testing cURL on Mac OS X
+Open up a Terminal Window (Terminal can be launched from Spotlight, the Dock at the bottom of the screen or even the Applications folder).
 
 Type curl.
 
