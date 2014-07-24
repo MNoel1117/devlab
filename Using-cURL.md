@@ -9,9 +9,9 @@ You can easily interact with the M2X API using cURL, a powerful command-line too
 
 Use the following steps to install curl:
 
-1. Open http://curl.haxx.se/dlwiz?type=bin in a browser.
-2. Select your operating system in the dropdown box: either Windows /Win32 or Win 64. Click Select!
-3. For Win 32, choose whether you will use curl in a Windows Command Prompt (Generic) or in a Cygwin terminal (cygwin). For Win 64, choose whether you will use curl in a Windows Command Prompt (Generic) or MinGW (MinGW64). ClickSelect!
+1. Open [http://curl.haxx.se/dlwiz?type=bin](http://curl.haxx.se/dlwiz?type=bin) in a browser.
+2. Select your operating system in the dropdown box: either Windows, /Win32 or Win 64. Click Select!
+3. For Win 32, choose whether you will use cURL in a Windows Command Prompt (Generic) or in a Cygwin terminal (cygwin). For Win 64, choose whether you will use cURL in a Windows Command Prompt (Generic) or MinGW (MinGW64). Click Select!
 4. If required, choose your Windows operating system. Finish.
 5. Click Download for the version which has SSL enabled.
 6. Choose a version with support for SSL.
@@ -75,3 +75,6 @@ You should see JSON returned:
 "message":"You must provide a valid API key in the X-M2X-KEY header"
 }
 ``
+
+### Advanced instructions
+You can learn more about how to use cURL by visiting the official tutorials: [curl.haxx.se/docs/httpscripting.html](http://curl.haxx.se/docs/httpscripting.html)
