@@ -16,3 +16,9 @@ Getting Started
 You will need an [AT&T M2X](https://m2x.att.com/) API key and a Data Source Feed ID. If you don't have an API key, create an account and, once registered and with your account activated, create a new [Data Source Blueprint](https://m2x.att.com/blueprints), and set aside the `Feed ID` and `API Key` values for later use. 
 
 
+M2X DevLab Quicklinks
+==========================
+1. Sample code for M2X DevLab: [codeForM2X.txt](codeForM2X.txt)
+2. [How to install and use cURL](Using-cURL.md)
+
+
