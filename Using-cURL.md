@@ -26,7 +26,7 @@ Set the path to include the directory where you put curl.exe. For example, if yo
 set path=%path%;"c:\Program Files\curl"
 ``
 
-Now, type *curl*
+Now, type ``curl``
  
 You should see the following message:
 
@@ -52,7 +52,7 @@ You should see JSON returned:
 ### Testing cURL on Mac OS X
 Open up a Terminal Window (Terminal can be launched from Spotlight, the Dock at the bottom of the screen or even the Applications folder).
 
-Type curl.
+Type ``curl``
 
 You should see the following message:
 
