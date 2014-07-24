@@ -1,7 +1,5 @@
 Using cURL
 ====
-
-cURL
 You can easily interact with the M2X API using cURL, a powerful command-line tool for making HTTP calls.
 
 *Pre-requisites: Windows 7 or later, or Mac OS X 10.7 or later*
@@ -28,8 +26,8 @@ Set the path to include the directory where you put curl.exe. For example, if yo
 set path=%path%;"c:\Program Files\curl"
 ``
 
-* Type *curl*
-* 
+Now, type *curl*
+ 
 You should see the following message:
 
 ``
@@ -64,7 +62,7 @@ curl: try 'curl –help' or 'curl –message' for more information
 
 This means that curl is installed and the path is correct.
 
-Type:
+Now, type:
 
 ``
 curl https://api-m2x.att.com/v1
