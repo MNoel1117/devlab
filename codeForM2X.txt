@@ -3,7 +3,7 @@ Lab 1
 
 Send data:
 
-curl --request POST --include --header "Content-Type: application/json" --header "X-M2X-KEY: {API-key}" --data '{"values": [{"value": "0"}]}' http://api-m2x.att.com/v1/feeds/{feed-ID}/streams/speed/values
+curl --request POST --include --header "Content-Type: application/json" --header "X-M2X-KEY: {API-key}" --data '{"values": [{"at" : "2014-07-24T16:15:00.624Z","value": "0"}]}' http://api-m2x.att.com/v1/feeds/{feed-ID}/streams/speed/values
 
 Retrieve data:
 
